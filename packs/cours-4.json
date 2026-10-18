@@ -1,0 +1,19 @@
+{
+  "kind": "intrain-protected-course",
+  "version": 1,
+  "id": "statistiques.cours",
+  "name": "Statistiques avec R",
+  "cipher": "AES-256-GCM",
+  "content": "e51dccee646896110d5ba301.enc",
+  "iv": "LuX8jsb1UzDYksXS",
+  "mac": "854d272b5cd6fbdec0011cee5947d993ba476e1809b3e725ecb86e0bb59d9c53",
+  "keys": [
+    {
+      "kdf": "PBKDF2-SHA256",
+      "iterations": 600000,
+      "salt": "7vZ+IzWmyjE3RchGfcaXGQ==",
+      "iv": "YnuG4SzMZYBKQ0Jn",
+      "key": "sbe9GDAv/01xW6maJEEQ/+iewQzYJ94036+5ipKOYLA+yCAK/W1JfnMnL5MzHJaL"
+    }
+  ]
+}
