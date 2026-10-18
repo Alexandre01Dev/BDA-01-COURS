@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "kind": "atelier-repository",
+  "name": "Fondements de la Data Analysis",
+  "packs": [
+    {
+      "path": "packs/cours.json"
+    }
+  ]
+}

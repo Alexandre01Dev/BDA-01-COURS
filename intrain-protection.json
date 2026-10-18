@@ -1,0 +1,14 @@
+{
+  "kind": "intrain-protected-repository",
+  "version": 1,
+  "keys": [
+    {
+      "kdf": "PBKDF2-SHA256",
+      "iterations": 600000,
+      "salt": "7vZ+IzWmyjE3RchGfcaXGQ==",
+      "iv": "YnuG4SzMZYBKQ0Jn",
+      "key": "sbe9GDAv/01xW6maJEEQ/+iewQzYJ94036+5ipKOYLA+yCAK/W1JfnMnL5MzHJaL"
+    }
+  ],
+  "check": "c9b14221ef6caaa58a97449aff19cbbd18918b9be14ccf9462a4da42b69bcb83"
+}

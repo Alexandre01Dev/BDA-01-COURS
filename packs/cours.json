@@ -1,0 +1,19 @@
+{
+  "kind": "intrain-protected-course",
+  "version": 1,
+  "id": "fondementsda.cours",
+  "name": "Fondements de la Data Analysis",
+  "cipher": "AES-256-GCM",
+  "content": "d126096057bb687d67c8cdd3.enc",
+  "iv": "/cfddf7JNHMiLI+m",
+  "mac": "1d5c45f9155e7dfb8941d93692fcc3eb9b0bb48a1619bbb5b1288a6e7904919b",
+  "keys": [
+    {
+      "kdf": "PBKDF2-SHA256",
+      "iterations": 600000,
+      "salt": "7vZ+IzWmyjE3RchGfcaXGQ==",
+      "iv": "YnuG4SzMZYBKQ0Jn",
+      "key": "sbe9GDAv/01xW6maJEEQ/+iewQzYJ94036+5ipKOYLA+yCAK/W1JfnMnL5MzHJaL"
+    }
+  ]
+}
