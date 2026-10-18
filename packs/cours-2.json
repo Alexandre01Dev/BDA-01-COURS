@@ -1,0 +1,19 @@
+{
+  "kind": "intrain-protected-course",
+  "version": 1,
+  "id": "datamining.cours",
+  "name": "Data mining",
+  "cipher": "AES-256-GCM",
+  "content": "62102df212617d41b81d178c.enc",
+  "iv": "T3tKTCJWbrUWVQaa",
+  "mac": "3fafd278ec611f3e553b619269f9b41794b997e9fa0d124ceedd32c8b5ebebe1",
+  "keys": [
+    {
+      "kdf": "PBKDF2-SHA256",
+      "iterations": 600000,
+      "salt": "7vZ+IzWmyjE3RchGfcaXGQ==",
+      "iv": "YnuG4SzMZYBKQ0Jn",
+      "key": "sbe9GDAv/01xW6maJEEQ/+iewQzYJ94036+5ipKOYLA+yCAK/W1JfnMnL5MzHJaL"
+    }
+  ]
+}

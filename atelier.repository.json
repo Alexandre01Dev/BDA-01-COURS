@@ -5,6 +5,9 @@
   "packs": [
     {
       "path": "packs/cours.json"
+    },
+    {
+      "path": "packs/cours-2.json"
     }
   ]
 }
